@@ -4,9 +4,10 @@
 __pycache__/
 *.pyc
 .vscode/
-
 # Runtime outputs / fixtures
 reports/
-
 # Local backup artifacts
 *.bak_*
+# Testing runtime outputs (generated)
+testing/runs/
+testing/_logs/
